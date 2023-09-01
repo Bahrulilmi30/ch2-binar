@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aplikasi Pertama Saya</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Halaman Gojo</string>
+    <string name="second_fragment_label">Halaman Toji</string>
+    <string name="next">Lanjut Bang</string>
+    <string name="previous">Balik Bang</string>
+
+    <string name="hello_first_fragment">
+        Udah Jadi Donat bang!
+    </string>
+    <string name="hello_second_fragment">
+        Sama Aja Bang Tapi duluan si Toji!
+    </string>
+</resources>
